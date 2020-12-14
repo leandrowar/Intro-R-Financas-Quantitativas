@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/leandrowar/Intro-R-Financas-Quantitativas>
-    <img src="https://github.com/leandrowar/Intro-R-Financas-Quantitativas/blob/master/imagens/OMNP_logo_t.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/leandrowar/Intro-R-Financas-Quantitativas/blob/master/imagens/OMNP_logo_t.png?raw=true" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Curso de R para Finanças Quantitativas</h3>
@@ -32,4 +32,4 @@
 
  Disponivel em https://www.youtube.com/watch?v=tJr_krsgAxc&list=PLudZsmb7OiyBmHA6gZFi1-D1auqCVIMWl
  
- Autor: Leandro Guerra - https://www.linkedin.com/in/leandroguerra1/ [![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/leandroguerra1/]
+ Autor: Leandro Guerra - https://www.linkedin.com/in/leandroguerra1/ 
