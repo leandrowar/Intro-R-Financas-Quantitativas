@@ -1,4 +1,5 @@
 <!-- PROJECT LOGO -->
+![alt text](https://github.com/leandrowar/Intro-R-Financas-Quantitativas/blob/master/imagens/OM_logo.png?raw=true)
 <br />
 <p align="center">
   <a href="https://github.com/leandrowar/Intro-R-Financas-Quantitativas>
