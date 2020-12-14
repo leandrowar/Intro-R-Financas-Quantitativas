@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/leandrowar/Intro-R-Financas-Quantitativas>
-    <img src="https://github.com/leandrowar/Intro-R-Financas-Quantitativas/blob/master/imagens/OMNP_logo_t.png?raw=true" alt="Logo" width="80" height="80">
+    <img src="https://github.com/leandrowar/Intro-R-Financas-Quantitativas/blob/master/imagens/OM_logo.png?raw=true" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Curso de R para Finanças Quantitativas</h3>
@@ -10,7 +10,7 @@
   <p align="center">
     Arquivos do curso gratuito do Outspoken Market
     <br />
-    <a href="https://github.com/leandrowar/Intro-R-Financas-Quantitativas"><strong>Consulte os arquivos»</strong></a>
+    <a href="https://github.com/leandrowar/Intro-R-Financas-Quantitativas"><strong>Consulte-os»</strong></a>
     <br />
     <br />
     <a href="https://www.outspokenmarket.com/rfinancasquantitativas.html">Confira as aulas</a>
@@ -24,7 +24,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Sobre o projeto
 
-https://www.outspokenmarket.com/rfinancasquantitativas.html
+Acesso ao material completo:  https://www.outspokenmarket.com/rfinancasquantitativas.html
 
  Quem me acompanha aqui no Outspoken Market e lá no Youtube viu que eu publiquei um vídeo sobre o que é preciso  aprender  para usar  Finanças Quantitativas. 
  
