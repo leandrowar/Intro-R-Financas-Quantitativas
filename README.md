@@ -1,9 +1,8 @@
 <!-- PROJECT LOGO -->
-![alt text](https://github.com/leandrowar/Intro-R-Financas-Quantitativas/blob/master/imagens/OM_logo.png?raw=true)
 <br />
 <p align="center">
   <a href="https://github.com/leandrowar/Intro-R-Financas-Quantitativas>
-    <img src="https://github.com/leandrowar/Intro-R-Financas-Quantitativas/blob/master/imagens/OM_logo.png?raw=true" alt="Logo" width="80" height="80">
+    <img src="https://user-images.githubusercontent.com/4582415/102086960-26251100-3e19-11eb-8bcb-47c01dd92e1b.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Curso de R para Finanças Quantitativas</h3>
