@@ -8,16 +8,16 @@
   <h3 align="center">Curso de R para Finanças Quantitativas</h3>
 
   <p align="center">
-    project_description
+    Arquivos do curso gratuito do Outspoken Market
     <br />
     <a href="https://github.com/leandrowar/Intro-R-Financas-Quantitativas"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://www.outspokenmarket.com/rfinancasquantitativas.html">View Demo</a>
+    <a href="https://www.outspokenmarket.com/rfinancasquantitativas.html">Confira as aulas</a>
     ·
-    <a href="https://github.com/leandrowar/Intro-R-Financas-Quantitativas/issues">Report Bug</a>
+    <a href="https://github.com/leandrowar/Intro-R-Financas-Quantitativas/issues">Achou algum Bug</a>
     ·
-    <a href="https://github.com/leandrowar/Intro-R-Financas-Quantitativas/issues">Request Feature</a>
+    <a href="https://github.com/leandrowar/Intro-R-Financas-Quantitativas/issues">Solicite alguma mudança</a>
   </p>
 </p>
 
