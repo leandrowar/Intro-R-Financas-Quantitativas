@@ -10,7 +10,7 @@
   <p align="center">
     Arquivos do curso gratuito do Outspoken Market
     <br />
-    <a href="https://github.com/leandrowar/Intro-R-Financas-Quantitativas"><strong>Consulte-os - </strong></a>
+    <a href="https://github.com/leandrowar/Intro-R-Financas-Quantitativas"><strong>Consulte-os</strong></a>
     <br />
     <br />
     <a href="https://www.outspokenmarket.com/rfinancasquantitativas.html">Confira as aulas - </a>
