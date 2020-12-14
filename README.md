@@ -1,23 +1,21 @@
 <!-- PROJECT LOGO -->
+![image](https://user-images.githubusercontent.com/4582415/102086388-4dc7a980-3e18-11eb-824c-ae3711834a7b.png)
+
 <br />
 <p align="center">
-  <a href="https://github.com/leandrowar/Intro-R-Financas-Quantitativas>
-    <img src="https://github.com/leandrowar/Intro-R-Financas-Quantitativas/blob/master/imagens/OM_logo.png?raw=true" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">Curso de R para Finanças Quantitativas</h3>
+  <h3 align="center">Curso de R para FinanÃ§as Quantitativas</h3>
 
   <p align="center">
     Arquivos do curso gratuito do Outspoken Market
     <br />
-    <a href="https://github.com/leandrowar/Intro-R-Financas-Quantitativas"><strong>Consulte-os»</strong></a>
+    <a href="https://github.com/leandrowar/Intro-R-Financas-Quantitativas"><strong>Consulte-osÂ»</strong></a>
     <br />
     <br />
     <a href="https://www.outspokenmarket.com/rfinancasquantitativas.html">Confira as aulas</a>
-    ·
+    Â·
     <a href="https://github.com/leandrowar/Intro-R-Financas-Quantitativas/issues">Achou algum Bug</a>
-    ·
-    <a href="https://github.com/leandrowar/Intro-R-Financas-Quantitativas/issues">Solicite alguma mudança</a>
+    Â·
+    <a href="https://github.com/leandrowar/Intro-R-Financas-Quantitativas/issues">Solicite alguma mudanÃ§a</a>
   </p>
 </p>
 
@@ -26,9 +24,9 @@
 
 Acesso ao material completo:  https://www.outspokenmarket.com/rfinancasquantitativas.html
 
- Quem me acompanha aqui no Outspoken Market e lá no Youtube viu que eu publiquei um vídeo sobre o que é preciso  aprender  para usar  Finanças Quantitativas. 
+ Quem me acompanha aqui no Outspoken Market e lÃ¡ no Youtube viu que eu publiquei um vÃ­deo sobre o que Ã© preciso  aprender  para usar  FinanÃ§as Quantitativas. 
  
- Agora vou abordar todos estes temas no nosso curso de R para Finanças Quantitativas. Dividi desta forma para você adaptar o curso ao seu conhecimento, direcionado aos seus pontos de interesse.
+ Agora vou abordar todos estes temas no nosso curso de R para FinanÃ§as Quantitativas. Dividi desta forma para vocÃª adaptar o curso ao seu conhecimento, direcionado aos seus pontos de interesse.
 
  Disponivel em https://www.youtube.com/watch?v=tJr_krsgAxc&list=PLudZsmb7OiyBmHA6gZFi1-D1auqCVIMWl
  
