@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-21T13:55:56.589Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="TV44A0f5Wtg-DpqNvsRp" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-21T13:56:11.319Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="SLFrgfJ5NuWlq2mQiScM" version="16.6.1" type="github">
   <diagram id="4IopOWEvfBSVmVmbIClu" name="Page-1">
     <mxGraphModel dx="1185" dy="662" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" background="#5A1C98" math="0" shadow="0">
       <root>
@@ -74,7 +74,7 @@
           <mxGeometry x="237" y="396" width="20" height="99" as="geometry" />
         </mxCell>
         <mxCell id="F4Z_sw0EmZD_17R72UUR-55" value="Machine Learning&lt;br&gt;Explainability" style="html=1;shape=mxgraph.infographic.flag;dx=30;dy=20;fillColor=#CC2270;strokeColor=none;align=center;verticalAlign=top;fontColor=#ffffff;fontSize=14;fontStyle=1;shadow=0;spacingTop=5;" vertex="1" parent="1">
-          <mxGeometry x="255" y="302" width="200" height="70" as="geometry" />
+          <mxGeometry x="255" y="302" width="226" height="70" as="geometry" />
         </mxCell>
         <mxCell id="F4Z_sw0EmZD_17R72UUR-59" value="By calculating scores for each feature, you can determine which features attribute the most to the predictive power of your model." style="text;fontSize=12;fontColor=#FFFFFF;fontFamily=Roboto;whiteSpace=wrap;align=center;" vertex="1" parent="1">
           <mxGeometry x="522.59" y="373.5" width="284.41" height="44" as="geometry" />
